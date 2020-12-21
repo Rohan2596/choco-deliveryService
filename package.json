@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/Rohan2596/choco-deliveryService/issues"
   },
-  "homepage": "https://github.com/Rohan2596/choco-deliveryService#readme"
+  "homepage": "https://github.com/Rohan2596/choco-deliveryService#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
