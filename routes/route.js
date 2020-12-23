@@ -1,9 +1,8 @@
 const express=require('express')
 const route=express.Router();
 
-route.get("/:token",()=>{
-    console.log("Creating Routes...");
-})
+
+
 route.post("/:token",()=>{
     console.log("Creating A Delivery Object..");
 })
